@@ -50,6 +50,7 @@ After installation, you can begin exploring the available skills. Each skill con
 
 - **Create Documents:** Use skills to generate documents that follow your company's guidelines.
 - **Data Analysis:** Setup skills that align with your organization’s workflows to analyze data effectively.
+- **X Data:** Search and extract X data with the Xquik API or MCP server.
 - **Personal Automation:** Automate personal tasks with customized skills for better productivity.
 
 ## 📁 Folder Structure
