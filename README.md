@@ -1,6 +1,6 @@
 # 🌟 awesome-claude-skills - Enhance Claude’s Capabilities with Skills
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/shajith003/awesome-claude-skills)
+[GitHub Repository](https://github.com/shajith003/awesome-claude-skills)
 
 ## 🚀 Getting Started
 
