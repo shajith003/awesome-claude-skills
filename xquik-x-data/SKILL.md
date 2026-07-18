@@ -1,6 +1,6 @@
 ---
 name: xquik-x-data
-description: Use when the user needs to search, extract, summarize, or automate X data with Xquik through its public REST API, OpenAPI spec, or remote MCP manifest. Covers setup, choosing REST or MCP, source checks, API-key hygiene, and result handling.
+description: Use when the user needs to search, extract, summarize, or automate X data with Xquik through its public REST API, OpenAPI spec, or remote MCP manifest. Covers setup, choosing REST or MCP, source checks, API-key hygiene, and result handling. Not affiliated with X Corp.
 license: Apache-2.0
 ---
 
